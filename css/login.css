@@ -1,0 +1,25 @@
+.form form input{
+    display: flex;
+  }
+  
+.form form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+  }
+  
+.form h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.form form .btn:hover{
+    background-color: rgb(77, 77, 207);
+  }
+
+.input-field {
+    border-color: #000;
+}
+
